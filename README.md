@@ -41,30 +41,30 @@ ex) Data Structure/Array
 ## 💻커밋 규칙   
 
 ### Repository clone   
-
 git clone https://github.com/Kim-Sang-Hun/CS_Study.git
 <br/><br/>
-### 본인의 Branch 생성   
 
+### 본인의 Branch 생성
 **branch는 주차별로 생성합니다.**   
 git checkout -b {본인의 깃허브 이름}/{주차명}   
 ex. git checkout -b Kim-Sang-Hun/week1
 <br/><br/>
-### Push   
 
+### Push
 git add . <br/>
 git commit -m "{주차명} : {주제대분류}/{주제소분류}" <br/>
-ex. git commit -m "week1 : Data Structure/Array" <br/>
+ex. git commit -m "week1 : Data Structure/Array" <br/><br/>
 git push origin {본인 브랜치 이름} <br/>
 ex. git push origin Kim-Sang-Hun/week1
-
 <br/><br/>
-### Pull request 생성   
 
+### Pull request 생성
 Pull Request Name : {주차명} : {주제대분류}/{주제소분류}
 <br/><br/>
-### Assignee : 본인   
+
+### Assignee : 본인
 <br/><br/>
+
 ## 💾참고 자료
 
 [교글 CS스터디](https://github.com/gyoogle/tech-interview-for-developer)
