@@ -1,9 +1,10 @@
 # CS_Study
 
 ## 📋목표
-1. 운영체제, 네트워크, DB, 스프링에 대한 학습
+1. Computer Science 전반에 걸쳐 학습
 2. 실제 프로젝트에 CS 지식을 적용하여 문제 해결 능력 향상
 3. 기술 면접을 위한 CS 지식 확보
+4. 발표 자료 공유로 다른 스터디원의 학습 보
 <br/><br/>
 ## 👶참여자   
 [Kim-Sang-Hun](https://github.com/Kim-Sang-Hun) <br/><br/>
@@ -11,6 +12,7 @@
 아래에 자기 깃허브 주소 링크로 넣어 주세요
 ```
 [스터디 노션](https://reminiscent-play-031.notion.site/14-cf59caf3520e4ed3b570e66cd3e5d05c)
+[b조 노션](https://south-license-edf.notion.site/CS-80c64fb3e18742988dc03be53da859a9)
 
 ## ⚖️스터디 규칙
 
